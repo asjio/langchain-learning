@@ -1,0 +1,5 @@
+[model_config]
+api_key = "sk-your-api-key-here"
+base_url = "https://your-gateway.example.com/v1"
+current_model = "bailian/qwen3.8-max"
+model_list = [ "bailian/qwen3.7-max", "bailian/qwen3.8-max", "bailian/glm-5.3", "bailian/glm-5.2",]
